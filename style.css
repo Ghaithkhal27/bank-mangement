@@ -1,0 +1,25 @@
+#page1 {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.title1 {
+    color: blueviolet;
+}
+
+.description {
+    color: black;
+}
+
+#image1 {
+    width: 400px;
+    height: 400px;
+}
+
+#page2 {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
